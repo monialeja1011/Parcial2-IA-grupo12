@@ -11,7 +11,6 @@ CSV_ORIGINAL = ROOT / "data" / "grupo_12.csv"
 CSV_LIMPIO = ROOT / "data" / "grupo_12_limpio.csv"
 
 
-
 print("Primeras 5 filas:")
 print(original.head())
 print("\nForma original:", original.shape)
