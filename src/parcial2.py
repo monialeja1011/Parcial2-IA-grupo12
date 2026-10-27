@@ -40,7 +40,7 @@ print(
 
 df = original.drop_duplicates().copy()
 
-# 3. Limpia humedad: quita '%' y convierte la columna a número
+
 df["humedad_relativa_pct"] = (
     df["humedad_relativa_pct"]
     .astype("string")
