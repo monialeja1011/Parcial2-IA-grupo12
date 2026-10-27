@@ -17,6 +17,14 @@ print(original.head())
 print("\nForma original:", original.shape)
 print("\nTipos originales:")
 print(original.dtypes)
+print(
+    "\nValores de humedad que contienen %:",
+    original["humedad_relativa_pct"].astype("string").str.contains("%", na=False).sum(),
+)
+print(
+    "\nClases antes de limpiar:\n",
+    original["riesgo_incendio"].value_counts().sort_index(),
+)
 print("\nNulos originales:")
 print(original.isna().sum())
 print("\nFilas duplicadas exactas:", original.duplicated().sum())
