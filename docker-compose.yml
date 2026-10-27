@@ -1,0 +1,8 @@
+services:
+  parcial2:
+    build: .
+    container_name: parcial2_ia
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: python src/parcial2.py

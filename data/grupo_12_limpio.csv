@@ -1,0 +1,81 @@
+registro_id,vereda,temperatura_c,humedad_relativa_pct,riesgo_incendio
+I001,Modín,20.3,94,0
+I002,Piedras de Moler,34.9,94,1
+I003,Zaragoza,34.0,44,1
+I004,Piedras de Moler,18.3,64,0
+I005,Modín,19.5,34,0
+I006,Coloradas,27.9,62,1
+I007,Zaragoza,34.5,60,1
+I008,Piedras de Moler,23.2,53,0
+I009,Zaragoza,24.3,42,1
+I010,Modín,32.4,35,1
+I011,Zaragoza,19.0,60,0
+I018,Cauca,34.2,75,1
+I012,Coloradas,34.4,71,0
+I013,Piedras de Moler,37.3,63,1
+I014,Piedras de Moler,33.9,56,1
+I015,Modín,37.7,42,1
+I016,Modín,28.2,52,1
+I017,Coloradas,21.8,77,0
+I019,Modín,37.7,86,0
+I020,Modín,33.3,36,1
+I063,Piedras de Moler,28.2,65,0
+I021,Zaragoza,20.2,27,0
+I022,Zaragoza,24.5,86,0
+I023,Cauca,22.5,60,0
+I024,Piedras de Moler,33.2,49,1
+I025,Piedras de Moler,21.8,83,0
+I026,Modín,18.7,78,0
+I047,Modín,32.3,32,1
+I027,Cauca,27.7,75,0
+I028,Piedras de Moler,27.9,38,1
+I029,Piedras de Moler,27.5,50,0
+I030,Modín,29.1,90,0
+I031,Piedras de Moler,31.5,21,1
+I032,Coloradas,29.3,78,0
+I033,Coloradas,25.8,85,0
+I034,Zaragoza,18.4,79,0
+I035,Coloradas,32.4,74,0
+I036,Cauca,23.2,81,0
+I037,Piedras de Moler,19.8,28,0
+I038,Modín,33.8,43,1
+I039,Coloradas,21.4,42,0
+I040,Cauca,35.5,65,1
+I041,Zaragoza,25.3,54,0
+I042,Modín,36.8,80,1
+I043,Modín,37.7,70,1
+I044,Zaragoza,37.6,85,1
+I045,Coloradas,33.9,60,1
+I046,Coloradas,23.2,43,0
+I048,Cauca,28.7,23,1
+I049,Cauca,32.2,51,1
+I050,Cauca,25.5,54,0
+I051,Coloradas,29.5,85,0
+I052,Cauca,27.5,60,0
+I053,Zaragoza,26.1,78,0
+I054,Modín,26.0,40,1
+I055,Coloradas,31.8,54,1
+I056,Zaragoza,24.9,66,0
+I057,Piedras de Moler,27.7,83,0
+I058,Modín,28.2,41,1
+I059,Piedras de Moler,21.8,84,0
+I060,Coloradas,32.7,46,1
+I061,Zaragoza,32.3,81,0
+I062,Zaragoza,33.2,68,1
+I064,Coloradas,33.0,50,1
+I065,Modín,29.6,30,1
+I066,Cauca,20.3,24,1
+I067,Coloradas,22.6,80,0
+I068,Cauca,33.7,20,1
+I069,Cauca,30.2,71,0
+I070,Zaragoza,24.9,43,1
+I071,Zaragoza,19.2,79,0
+I072,Modín,34.7,41,1
+I073,Zaragoza,27.7,94,0
+I074,Zaragoza,19.0,48,0
+I075,Coloradas,25.3,80,0
+I076,Coloradas,31.3,43,1
+I077,Piedras de Moler,24.5,44,0
+I078,Cauca,34.6,59,1
+I079,Coloradas,29.2,69,0
+I080,Zaragoza,24.8,50,0
