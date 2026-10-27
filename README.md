@@ -171,3 +171,7 @@ En estos ejemplos, las probabilidades coinciden con lo esperado. Son casos ilust
 ## 9. Conclusión 
 
 En este archivo se observa una asociación entre temperatura alta, humedad baja y la clase de riesgo alto. El modelo obtuvo **90 % de exactitud sobre los mismos 80 registros utilizados para entrenarlo**, pero clasificó mal **8 registros**.
+
+## Conteos de la inspección inicial
+
+El script también cuenta los valores de humedad que contienen `%` y muestra la distribución de clases antes de limpiar. En el archivo original encontró 3 valores de humedad con `%`: la columna se leyó como texto y fue necesario convertirla a número. La distribución inicial fue de 45 registros de clase 0 y 39 de clase 1. Tras eliminar 4 duplicados exactos quedaron 43 registros de clase 0 y 37 de clase 1.
